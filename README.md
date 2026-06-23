@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Harshad 👋
 
-<!--
-**notmasked/notmasked** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Harshad, a CSE student based in Maharashtra, India.
 
-Here are some ideas to get you started:
+Python is my primary language as of now. I'm a hardcore gamer, an eager game developer, and my main goal is to become an AI/ML Engineer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+### Languages
+
+* Python
+
+### Tools
+
+* VS Code
+
+## Interests
+
+* 🎮 Hardcore gaming
+* 🕹️ Game development
+* 🤖 AI & Machine Learning
+* 🏍️ Riding motorcycles
+
+## Fun Facts
+
+* 🐶 I have a bunch of pets.
+* 🐍 I love yoinking weird-looking animals, insects, reptiles, and birds.
