@@ -25,3 +25,4 @@ Python is my primary language as of now. I'm a hardcore gamer, an eager game dev
 
 * 🐶 I have a bunch of pets.
 * 🐍 I love yoinking weird-looking animals, insects, reptiles, and birds.
+* 🏍️ Got my first ride at 17.
