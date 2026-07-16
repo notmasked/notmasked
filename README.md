@@ -9,7 +9,8 @@ Python is my primary language as of now. I'm a gamer, a newbie game developer, f
 ### Languages
 
 * Python
-
+* C++
+  
 ### Tools
 
 * VS Code
