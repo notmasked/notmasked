@@ -1,6 +1,6 @@
 # Hi there, I'm Harshad 👋
 
-I am Harshad, a CSE student based in Maharashtra, India.
+I am Harshad, a CSE-AI-ML student based in Maharashtra, India.
 
 Python is my primary language as of now. I'm a gamer, a newbie game developer, final goal is to become an AI & ML engineer.
 
