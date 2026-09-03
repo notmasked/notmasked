@@ -1,6 +1,6 @@
-# Hey
+# Hey this is Harshad
 
-I am Harshad, a CSE-AI-ML student based in Maharashtra, India.
+a CSE-AI-ML student based in Maharashtra, India.
 
 
 ## Tech Stack
